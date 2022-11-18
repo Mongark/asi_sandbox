@@ -1,7 +1,16 @@
 use asi_sandbox::world::world::*;
 
-fn main() {
+fn tests() {
     let _test_cell = Cell { id: 0 };
 
-    println!("Hello, world!");
+    let _test_stack = CellStack {
+        id: 0,
+        stack: vec![_test_cell],
+    };
+}
+
+fn main() {
+    tests();
+
+    println!("Works!");
 }
