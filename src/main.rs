@@ -1,10 +1,4 @@
-struct Cell {
-    id: u32,
-}
-
-struct CellStack {
-    id: u32,
-}
+mod world;
 
 fn main() {
     println!("Hello, world!");
