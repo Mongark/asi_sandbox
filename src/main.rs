@@ -12,5 +12,5 @@ fn tests() {
 fn main() {
     tests();
 
-    println!("Works!");
+    println!("It works!");
 }
