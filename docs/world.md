@@ -1,0 +1,3 @@
+# World Synthesis and Representation
+
+A World is represented as a `m x n` grid, each element containing a Cell Stack(CS). Actions on a CS should follow a first-in last-out order. Each Cell in a CS can accept a collection of Modifier properties in the form of a stringified JSON. Whenever a cell is activated, they must be checked for the property of Consumable(wheter they disappear after activation or no). Them each Modifier must be activated sequentially, resulting in a change in the environment and the Agent's body. Each Cell can belong to a family of Cells who are similar, with very slight variations(no Modifier should added or removed, only slightly increased or decreased).
