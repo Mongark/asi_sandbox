@@ -3,7 +3,7 @@
 ## Overview
 This project intends to create a unique sandbox environment for AI to grow in. It should have enough dynamic for complex emergent behavior without being so complex as to require too many parameters.
 
-This projects intends to tackle this problem by giving the AI an abstract world of randomly associated Objects(abstractions in relation to one another), each with their own properties. The AI must find ways to use those Objects to survive, adapt and grow.
+This projects intends to tackle this problem by giving the AI an abstract world of randomly associated Objects(abstractions in relation to one another), each with their own properties. The AI must find ways to use those Objects to survive, adapt and grow by controlling a Body(which is also an object).
 
 There should be many ways for an agent to survive, so that they may vary in complexity and capacity.
 
