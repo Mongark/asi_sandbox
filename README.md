@@ -1,5 +1,7 @@
 # Artificial Super Intelligence Sandbox(ASISandBox)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Mongark/asi_sandbox)
+
 ## Overview
 This project intends to create a unique sandbox environment for AI to grow in. It should have enough dynamic for complex emergent behavior without being so complex as to require too many parameters.
 
